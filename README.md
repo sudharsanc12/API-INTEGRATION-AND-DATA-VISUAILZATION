@@ -40,3 +40,9 @@ Data Visualization with Matplotlib & Seaborn
 Error Handling & Feedback
 The app provides visual feedback using st.warning() if no data is available for a particular stock, and st.error() if no data is returned at all. Once the dashboard is ready, it displays a success message.
 
+*OUTPUT*: 
+
+![Image](https://github.com/user-attachments/assets/ee5ab937-4b87-4008-8d57-30b5fedfa81f)
+![Image](https://github.com/user-attachments/assets/d89e1e58-a02d-41e4-8c7e-49f4a1396c0b)
+![Image](https://github.com/user-attachments/assets/81f32d74-44dd-498d-8bf1-626e28eb7321)
+![Image](https://github.com/user-attachments/assets/f9ec4ea8-3ee4-486b-af34-c78b075fb559)
